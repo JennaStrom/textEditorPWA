@@ -4,7 +4,7 @@
   "description": "text editor",
   "main": "server.js",
   "engines": {
-    "node": "18.x"
+    "node": "6.20.1"
   },
   "scripts": {
     "dev": "webpack-dev-server",
