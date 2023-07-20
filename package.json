@@ -2,10 +2,7 @@
   "name": "JATE",
   "version": "1.0.0",
   "description": "text editor",
-  "main": "server.js",
-  "engines": {
-    "node": "16.20.1"
-  },
+
   "scripts": {
     "dev": "webpack-dev-server",
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
