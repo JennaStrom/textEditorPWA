@@ -18,13 +18,15 @@
 - [Questions](#questions)
 
 ## Installation
-  There are two ways to intall this application. 
+  There are two ways to install this application. 
   1. If you would like to work with the code please clone the repo, run npm install, run npm run build, and then run npm run start.
   2. If you would like to Install the application on your computer please go to the deployed link and click the install button on the upper left.
 
 ## Usage
  Here is a screenshot of the text editor. You can type in any notes you would like. You also have the option of installing it to your computer by clicking the Install button on the upper left corner of the screen. 
-  
+  <img width="1429" alt="Screenshot 2023-07-20 at 7 44 31 PM" src="https://github.com/JennaStrom/textEditorPWA/assets/123525191/55ab077a-8d37-4837-967c-c4388030ebf3">
+
+<img width="1427" alt="Screenshot 2023-07-20 at 7 47 27 PM" src="https://github.com/JennaStrom/textEditorPWA/assets/123525191/23628165-3c2f-4e57-8bbc-8433f2816071">
 
 ## License
   This application is covered by the [The MIT License](https://opensource.org/license/mit/)
